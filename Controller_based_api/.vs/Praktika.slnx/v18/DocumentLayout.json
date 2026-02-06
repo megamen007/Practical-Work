@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1A0CE9-29ED-61F2-83E3-6B1F45DA8B28}|Praktika\\Praktika.csproj|c:\\users\\mohamedboudrioua\\source\\repos\\praktika\\praktika\\praktika.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1A0CE9-29ED-61F2-83E3-6B1F45DA8B28}|Praktika\\Praktika.csproj|solutionrelative:praktika\\praktika.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1A0CE9-29ED-61F2-83E3-6B1F45DA8B28}|Praktika\\Praktika.csproj|c:\\users\\mohamedboudrioua\\source\\repos\\praktika\\praktika\\praktika.application\\models\\mdlitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1A0CE9-29ED-61F2-83E3-6B1F45DA8B28}|Praktika\\Praktika.csproj|solutionrelative:praktika\\praktika.application\\models\\mdlitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1A0CE9-29ED-61F2-83E3-6B1F45DA8B28}|Praktika\\Praktika.csproj|c:\\users\\mohamedboudrioua\\source\\repos\\praktika\\praktika\\praktika.api\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1A0CE9-29ED-61F2-83E3-6B1F45DA8B28}|Praktika\\Praktika.csproj|solutionrelative:praktika\\praktika.api\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1A0CE9-29ED-61F2-83E3-6B1F45DA8B28}|Praktika\\Praktika.csproj|c:\\users\\mohamedboudrioua\\source\\repos\\praktika\\praktika\\praktika.domain\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1A0CE9-29ED-61F2-83E3-6B1F45DA8B28}|Praktika\\Praktika.csproj|solutionrelative:praktika\\praktika.domain\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1A0CE9-29ED-61F2-83E3-6B1F45DA8B28}|Praktika\\Praktika.csproj|c:\\users\\mohamedboudrioua\\source\\repos\\praktika\\praktika\\praktika.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1A0CE9-29ED-61F2-83E3-6B1F45DA8B28}|Praktika\\Praktika.csproj|solutionrelative:praktika\\praktika.api\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\Praktika.Infrastructure\\Migrations\\20260206131616_ItemsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Praktika\\Praktika.Infrastructure\\Migrations\\20260206131616_ItemsTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1A0CE9-29ED-61F2-83E3-6B1F45DA8B28}|Praktika\\Praktika.csproj|c:\\users\\mohamedboudrioua\\source\\repos\\praktika\\praktika\\praktika.infrastructure\\persistence\\praktikadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1A0CE9-29ED-61F2-83E3-6B1F45DA8B28}|Praktika\\Praktika.csproj|solutionrelative:praktika\\praktika.infrastructure\\persistence\\praktikadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1A0CE9-29ED-61F2-83E3-6B1F45DA8B28}|Praktika\\Praktika.csproj|c:\\users\\mohamedboudrioua\\source\\repos\\praktika\\praktika\\praktika.infrastructure\\migrations\\20260206104137_addnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1A0CE9-29ED-61F2-83E3-6B1F45DA8B28}|Praktika\\Praktika.csproj|solutionrelative:praktika\\praktika.infrastructure\\migrations\\20260206104137_addnotes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1A0CE9-29ED-61F2-83E3-6B1F45DA8B28}|Praktika\\Praktika.csproj|c:\\users\\mohamedboudrioua\\source\\repos\\praktika\\praktika\\praktika.infrastructure\\migrations\\20260206115414_itemzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1A0CE9-29ED-61F2-83E3-6B1F45DA8B28}|Praktika\\Praktika.csproj|solutionrelative:praktika\\praktika.infrastructure\\migrations\\20260206115414_itemzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1A0CE9-29ED-61F2-83E3-6B1F45DA8B28}|Praktika\\Praktika.csproj|c:\\users\\mohamedboudrioua\\source\\repos\\praktika\\praktika\\praktika.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE1A0CE9-29ED-61F2-83E3-6B1F45DA8B28}|Praktika\\Praktika.csproj|solutionrelative:praktika\\praktika.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1A0CE9-29ED-61F2-83E3-6B1F45DA8B28}|Praktika\\Praktika.csproj|c:\\users\\mohamedboudrioua\\source\\repos\\praktika\\praktika\\praktika.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE1A0CE9-29ED-61F2-83E3-6B1F45DA8B28}|Praktika\\Praktika.csproj|solutionrelative:praktika\\praktika.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE1A0CE9-29ED-61F2-83E3-6B1F45DA8B28}|Praktika\\Praktika.csproj|c:\\users\\mohamedboudrioua\\source\\repos\\praktika\\praktika\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE1A0CE9-29ED-61F2-83E3-6B1F45DA8B28}|Praktika\\Praktika.csproj|solutionrelative:praktika\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\Migrations\\20260206090122_setCategoryTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Praktika\\Migrations\\20260206090122_setCategoryTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\Praktika.API\\Program.cs",
+              "RelativeDocumentMoniker": "Praktika\\Praktika.API\\Program.cs",
+              "ToolTip": "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\Praktika.API\\Program.cs",
+              "RelativeToolTip": "Praktika\\Praktika.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T08:50:53.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\Praktika.API\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "Praktika\\Praktika.API\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\Praktika.API\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "Praktika\\Praktika.API\\Controllers\\ItemsController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAAAD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T11:56:33.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mdlItem.cs",
+              "DocumentMoniker": "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\Praktika.Application\\Models\\mdlItem.cs",
+              "RelativeDocumentMoniker": "Praktika\\Praktika.Application\\Models\\mdlItem.cs",
+              "ToolTip": "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\Praktika.Application\\Models\\mdlItem.cs",
+              "RelativeToolTip": "Praktika\\Praktika.Application\\Models\\mdlItem.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T13:36:08.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\Praktika.Domain\\Entities\\Item.cs",
+              "RelativeDocumentMoniker": "Praktika\\Praktika.Domain\\Entities\\Item.cs",
+              "ToolTip": "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\Praktika.Domain\\Entities\\Item.cs",
+              "RelativeToolTip": "Praktika\\Praktika.Domain\\Entities\\Item.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwBQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T13:36:17.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\Praktika.API\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Praktika\\Praktika.API\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\Praktika.API\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Praktika\\Praktika.API\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADwvykAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T09:10:26.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260206131616_ItemsTable.cs",
+              "DocumentMoniker": "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\Praktika.Infrastructure\\Migrations\\20260206131616_ItemsTable.cs",
+              "RelativeDocumentMoniker": "Praktika\\Praktika.Infrastructure\\Migrations\\20260206131616_ItemsTable.cs",
+              "ToolTip": "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\Praktika.Infrastructure\\Migrations\\20260206131616_ItemsTable.cs",
+              "RelativeToolTip": "Praktika\\Praktika.Infrastructure\\Migrations\\20260206131616_ItemsTable.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T13:16:17.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PraktikaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\Praktika.Infrastructure\\Persistence\\PraktikaDbContext.cs",
+              "RelativeDocumentMoniker": "Praktika\\Praktika.Infrastructure\\Persistence\\PraktikaDbContext.cs",
+              "ToolTip": "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\Praktika.Infrastructure\\Persistence\\PraktikaDbContext.cs",
+              "RelativeToolTip": "Praktika\\Praktika.Infrastructure\\Persistence\\PraktikaDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T08:41:23.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260206104137_addnotes.cs",
+              "DocumentMoniker": "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\Praktika.Infrastructure\\Migrations\\20260206104137_addnotes.cs",
+              "RelativeDocumentMoniker": "Praktika\\Praktika.Infrastructure\\Migrations\\20260206104137_addnotes.cs",
+              "ToolTip": "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\Praktika.Infrastructure\\Migrations\\20260206104137_addnotes.cs",
+              "RelativeToolTip": "Praktika\\Praktika.Infrastructure\\Migrations\\20260206104137_addnotes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T10:41:38.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260206115414_Itemzone.cs",
+              "DocumentMoniker": "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\Praktika.Infrastructure\\Migrations\\20260206115414_Itemzone.cs",
+              "RelativeDocumentMoniker": "Praktika\\Praktika.Infrastructure\\Migrations\\20260206115414_Itemzone.cs",
+              "ToolTip": "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\Praktika.Infrastructure\\Migrations\\20260206115414_Itemzone.cs",
+              "RelativeToolTip": "Praktika\\Praktika.Infrastructure\\Migrations\\20260206115414_Itemzone.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA2wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T11:54:14.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\Praktika.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Praktika\\Praktika.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\Praktika.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "Praktika\\Praktika.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T08:55:49.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\Praktika.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Praktika\\Praktika.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\Praktika.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Praktika\\Praktika.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-06T09:16:23.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\appsettings.json",
+              "RelativeDocumentMoniker": "Praktika\\appsettings.json",
+              "ToolTip": "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\appsettings.json",
+              "RelativeToolTip": "Praktika\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-06T08:27:07.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260206090122_setCategoryTable.cs",
+              "DocumentMoniker": "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\Migrations\\20260206090122_setCategoryTable.cs",
+              "RelativeDocumentMoniker": "Praktika\\Migrations\\20260206090122_setCategoryTable.cs",
+              "ToolTip": "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\Migrations\\20260206090122_setCategoryTable.cs",
+              "RelativeToolTip": "Praktika\\Migrations\\20260206090122_setCategoryTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-06T09:01:23.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
