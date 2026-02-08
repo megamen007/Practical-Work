@@ -9,7 +9,7 @@ namespace Praktika.Praktika.Domain.Entities
         public int Id { get; set;}
 
         [MaxLength(100)]
-        public string Name { get; set;}
+        public string? Name { get; set;}
 
         public double Price { get; set;}
 
@@ -20,9 +20,6 @@ namespace Praktika.Praktika.Domain.Entities
         [ForeignKey(nameof(category))]
         public int CategoryId { get; set; }
 
-        public Category category { get; set; }
-
-
-
+        public Category? category { get; set; }
     }
 }

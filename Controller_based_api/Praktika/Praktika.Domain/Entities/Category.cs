@@ -1,4 +1,4 @@
-﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations;
 
 namespace Praktika.Praktika.Domain.Entities
 {
@@ -12,8 +12,6 @@ namespace Praktika.Praktika.Domain.Entities
 
         public string? Description { get; set;}
 
-        public List<Item> Items { get; set;}
-
-
+        public List<Item> Items { get; set;} = new();
     }
 }

@@ -1,9 +1,8 @@
 using Microsoft.EntityFrameworkCore;
 using Praktika.Praktika.Infrastructure.Persistence;
+using FluentValidation;
 
 var builder = WebApplication.CreateBuilder(args);
-
-// Add services to the container.
 
 builder.Services.AddControllers().AddNewtonsoftJson();
 builder.Services.AddEndpointsApiExplorer();
@@ -12,9 +11,16 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<PraktikaDbContext>(op =>
 op.UseSqlServer(builder.Configuration.GetConnectionString("myConfing")));
 
-builder.Services.AddControllers();
-// Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
-//builder.Services.AddOpenApi();
+// Register MediatR
+builder.Services.AddMediatR(cfg => {
+    cfg.RegisterServicesFromAssembly(typeof(Praktika.Application.Categories.Commands.CreateCategory.CreateCategoryCommand).Assembly);
+});
+
+// Register AutoMapper
+builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
+
+// Register FluentValidation validators
+builder.Services.AddValidatorsFromAssemblyContaining<Program>();
 
 var app = builder.Build();
 

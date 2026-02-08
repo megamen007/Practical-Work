@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\Praktika.csproj": {}
+    "C:\\Users\\mosta\\OneDrive\\Bureau\\Practical-Work\\Controller_based_api\\Praktika\\Praktika.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\Praktika.csproj": {
+    "C:\\Users\\mosta\\OneDrive\\Bureau\\Practical-Work\\Controller_based_api\\Praktika\\Praktika.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\Praktika.csproj",
+        "projectUniqueName": "C:\\Users\\mosta\\OneDrive\\Bureau\\Practical-Work\\Controller_based_api\\Praktika\\Praktika.csproj",
         "projectName": "Praktika",
-        "projectPath": "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\Praktika.csproj",
-        "packagesPath": "C:\\Users\\MohamedBoudrioua\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MohamedBoudrioua\\source\\repos\\Praktika\\Praktika\\obj\\",
+        "projectPath": "C:\\Users\\mosta\\OneDrive\\Bureau\\Practical-Work\\Controller_based_api\\Praktika\\Praktika.csproj",
+        "packagesPath": "C:\\Users\\mosta\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mosta\\OneDrive\\Bureau\\Practical-Work\\Controller_based_api\\Praktika\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\MohamedBoudrioua\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\mosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -51,6 +51,18 @@
         "net10.0": {
           "targetAlias": "net10.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
             "Microsoft.AspNetCore.JsonPatch": {
               "target": "Package",
               "version": "[10.0.2, )"
