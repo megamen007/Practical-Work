@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mosta\\OneDrive\\Bureau\\Practical-Work\\Controller_based_api\\Praktika\\Praktika.csproj": {}
+    "C:\\Users\\MohamedBoudrioua\\Desktop\\Praktika\\Controller_based_api\\Praktika\\Praktika.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mosta\\OneDrive\\Bureau\\Practical-Work\\Controller_based_api\\Praktika\\Praktika.csproj": {
+    "C:\\Users\\MohamedBoudrioua\\Desktop\\Praktika\\Controller_based_api\\Praktika\\Praktika.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mosta\\OneDrive\\Bureau\\Practical-Work\\Controller_based_api\\Praktika\\Praktika.csproj",
+        "projectUniqueName": "C:\\Users\\MohamedBoudrioua\\Desktop\\Praktika\\Controller_based_api\\Praktika\\Praktika.csproj",
         "projectName": "Praktika",
-        "projectPath": "C:\\Users\\mosta\\OneDrive\\Bureau\\Practical-Work\\Controller_based_api\\Praktika\\Praktika.csproj",
-        "packagesPath": "C:\\Users\\mosta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mosta\\OneDrive\\Bureau\\Practical-Work\\Controller_based_api\\Praktika\\obj\\",
+        "projectPath": "C:\\Users\\MohamedBoudrioua\\Desktop\\Praktika\\Controller_based_api\\Praktika\\Praktika.csproj",
+        "packagesPath": "C:\\Users\\MohamedBoudrioua\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MohamedBoudrioua\\Desktop\\Praktika\\Controller_based_api\\Praktika\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\mosta\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MohamedBoudrioua\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
